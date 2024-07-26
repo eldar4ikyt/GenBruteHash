@@ -10,7 +10,7 @@ This project is a script for sorting passwords by their hashes. It supports seve
  ```
 2. Go to the project directory:
  ```bash
-    cd hash-brute-forcer
+    cd GenBruteHash
  ```
 3. Install the necessary dependencies:
 ```bash
@@ -84,7 +84,7 @@ Enter the path to the file with the hashes > hashes.txt
  ```
 2. Перейдите в директорию проекта:
  ```bash
-    cd hash-brute-forcer
+    cd GenBruteHash
  ```
 3. Установите необходимые зависимости:
 ```bash
