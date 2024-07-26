@@ -2,7 +2,6 @@
 This project is a script for sorting passwords by their hashes. It supports several types of hashing, including MD5, SHA1, SHA256, SHA512.
 
 # EN:
-This project is a script for sorting passwords by their hashes. It supports several types of hashing, including MD5, SHA1, SHA256, SHA512.
 ## Installation
 1. Clone the repository to your computer:
  ```bash
@@ -76,7 +75,6 @@ Enter the path to the file with the hashes > hashes.txt
 
 
 # RU:
-Этот проект представляет собой скрипт для перебора паролей по их хэшам. Он поддерживает несколько типов хэширования, включая MD5, SHA1, SHA256, SHA512.
 ## Установка
 1. Клонируйте репозиторий на ваш компьютер:
  ```bash
